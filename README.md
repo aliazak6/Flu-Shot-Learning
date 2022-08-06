@@ -5,3 +5,5 @@ inside Project Report
 
 Anyone can try provided values with xgboost.ipynb for xgboost algorithm or Generic.ipynb for other models as well.
 Results can be improved using detailed parameter tuning.
+
+Relevant explanation and background described inside ProjectReport.
